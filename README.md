@@ -1,8 +1,8 @@
 ## pig-game
 
-** Pig Game ** is a simple dice game which is playable with just a single die or multiple dices.
+**Pig Game** is a simple dice game which is playable with just a single die or multiple dices.
 
-** MADE WITH **
+**MADE WITH**
 * JavaScript
 * HTML5
 * CSS3
