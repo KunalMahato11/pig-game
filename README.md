@@ -3,9 +3,9 @@
 **Pig Game** is a simple dice game which is playable with just a single die or multiple dices.
 
 ## MADE WITH
-* JavaScript
-* HTML5
-* CSS3
+* __JavaScript__
+* __HTML5__
+* __CSS3__
 
 ## GAME RULES:
 
